@@ -2,27 +2,30 @@
    "wallpapers": [
       {
          "author": "Markus Spiske",
-         "url": "https://static.pexels.com/photos/53756/pexels-photo-53756.jpeg",
+         "url": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/walls/wall_5.jpg",
          "name": "Branches close up",
-         "thumbnail": "https://images.pexels.com/photos/53756/pexels-photo-53756.jpeg?h=350&auto=compress&cs=tinysrgb"
+         "thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/thumbs/wall_5.jpg"
       },
-      {
-         "author": "Scott Webb",
-         "url": "https://static.pexels.com/photos/305820/pexels-photo-305820.jpeg",
-         "name": "Dry Skies",
-         "thumbnail": "https://images.pexels.com/photos/305820/pexels-photo-305820.jpeg?h=350&auto=compress&cs=tinysrgb"
-      },
-      {
+       {
+         "author": "Alex Powell",
+         "url": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/walls/wall_1.jpg",
+         "name": "Paning photo",
+         "thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/thumbs/wall_1.jpg"
+      },{
          "author": "Pixabay",
-         "url": "https://static.pexels.com/photos/68171/girl-at-night-running-cloud-68171.jpeg",
-         "name": "Silhouette",
-         "thumbnail": "https://images.pexels.com/photos/68171/girl-at-night-running-cloud-68171.jpeg?h=350&auto=compress&cs=tinysrgb"
+         "url": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/walls/wall_6.jpg",
+         "name": "Orange Jar",
+         "thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/thumbs/wall_6.jpg"
+      },{
+         "author": "Mark McCammon",
+         "url": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/walls/wall_4.jpg",
+         "name": "Ocean Blue",
+         "thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/thumbs/wall_4.jpg"
+      },{
+         "author": "LEONARDO VAZQUEZ",
+         "url": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/walls/wall_3.jpg",
+         "name": "Brown leaf",
+         "thumbnail": "https://raw.githubusercontent.com/yogeshgosavi/evolveforkwgt/main/thumbs/wall_3.jpg"
       },
-      {
-         "author": "No One",
-         "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
-         "name": "Drops",
-         "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
-      }
    ]
 }
